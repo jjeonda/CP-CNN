@@ -31,4 +31,5 @@ When define Engine, only FP16 can be used (automatically).
 ## Demo
 We demonstrated our algorithm on Jetson AGX Xavier Embedded Platform. (Korea_road_video)
 
-![AGX_demo_AdobeExpress](https://user-images.githubusercontent.com/35592964/236998064-257dff44-5e29-4154-847f-855406ea2cdb.gif)
+![AGX_demo_yolov3](https://github.com/jjeonda/CP-CNN/assets/35592964/6eef8b73-8075-47c0-8d98-2814b10c26b4)
+
