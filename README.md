@@ -29,3 +29,4 @@ When define Engine, only FP16 can be used (automatically).
     ./apps/trt-yolo/build/trt-yolo-app --flagfile=config/yolov3.txt --deviceType=kGPU --precision=kHALF 
 
 ## Demo
+<img_src="https://user-images.githubusercontent.com/35592964/236998064-257dff44-5e29-4154-847f-855406ea2cdb.gif">
