@@ -1,0 +1,14 @@
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/CMakeFiles/install/strip.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/CMakeFiles/edit_cache.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/CMakeFiles/gstnvyolo.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/CMakeFiles/list_install_components.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/CMakeFiles/install/local.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/CMakeFiles/install.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/lib/CMakeFiles/install/strip.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/lib/CMakeFiles/edit_cache.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/lib/CMakeFiles/yolo-lib.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/lib/CMakeFiles/rebuild_cache.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/lib/CMakeFiles/list_install_components.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/lib/CMakeFiles/install/local.dir
+/home/nvidia/YOLOv3/deepstream_reference_apps/yolo/plugins/gst-yoloplugin-tegra/build/lib/CMakeFiles/install.dir
