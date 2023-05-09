@@ -23,7 +23,7 @@ We tested our algorithm using Berkeley Deep Drive (BDD) dataset.
 When define Engine, only FP16 can be used (automatically).
 
 ### demo
-    ./apps/trt-yolo/build/trt-yolo-app --flagfile=config/yolov3_.txt --deviceType=kGPU --precision=kHALF --inference_type=demo
+    ./apps/trt-yolo/build/trt-yolo-app --flagfile=config/yolov3.txt --deviceType=kGPU --precision=kHALF --inference_type=demo
     
 ### test
-    ./apps/trt-yolo/build/trt-yolo-app --flagfile=config/yolov3_.txt --deviceType=kGPU --precision=kHALF 
+    ./apps/trt-yolo/build/trt-yolo-app --flagfile=config/yolov3.txt --deviceType=kGPU --precision=kHALF 
